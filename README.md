@@ -107,6 +107,42 @@ Audio-Studio-T/
 
 ---
 
+### 🛠️ Other Projects
+
+**[AI Dimension](https://github.com/SaidAuita/AI-Dimension)**
+* Automatic dimensioning, gap measuring, and technical callout generator for Adobe Illustrator.
+
+**[ID Dimension](https://github.com/SaidAuita/ID-Dimension)**
+* Technical dimensioning and drafting annotation tool for Adobe InDesign (includes both CEP panel and ScriptUI palette).
+
+**[ComfyUI Photoshop Plugin (PH-CU-S)](https://github.com/SaidAuita/ComfyUI_PH-CU-S)**
+* A powerful Photoshop plugin powered by ComfyUI, providing direct integration with local generative models without any clouds, subscriptions, or recurring fees.
+
+### 💎 QR Code with Custom Shape Logo
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://ph-cu-s.com/ai-code-pro">
+        <img src="images/ai_code_pro.png" width="130" alt="AI Code PRO - Custom Shape Logo QR Code" /><br/>
+        <b>AI Code PRO</b>
+      </a><br/>
+      <sub>Vector Barcodes (18 Standards) & Designer QR Codes for <b>Adobe Illustrator</b></sub><br/><br/>
+      <a href="https://ph-cu-s.com/ai-code-pro"><img src="https://img.shields.io/badge/PRO-Illustrator%20Extension-orange.svg" alt="AI Code PRO" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://ph-cu-s.com/id-code-pro">
+        <img src="images/id_code_pro.png" width="130" alt="ID Code PRO - Custom Shape Logo QR Code" /><br/>
+        <b>ID Code PRO</b>
+      </a><br/>
+      <sub>Vector Barcodes (18 Standards) & Designer QR Codes for <b>Adobe InDesign</b></sub><br/><br/>
+      <a href="https://ph-cu-s.com/id-code-pro"><img src="https://img.shields.io/badge/PRO-InDesign%20Extension-purple.svg" alt="ID Code PRO" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <a name="russian"></a>
 ## 🇷🇺 Русский
 
@@ -177,3 +213,39 @@ Audio-Studio-T/
 * Интерфейс: [NiceGUI](https://nicegui.io/)
 * Распознавание речи: [Qwen3-ASR](https://github.com/QwenLM)
 * Лицензия: Apache-2.0
+
+---
+
+### 🛠️ Другие проекты (My Projects)
+
+**[AI Dimension](https://github.com/SaidAuita/AI-Dimension)**
+* Автоматическая простановка технических размеров, зазоров и выносных линий для Adobe Illustrator.
+
+**[ID Dimension](https://github.com/SaidAuita/ID-Dimension)**
+* Инструмент простановки чертежных размеров и аннотаций для Adobe InDesign (включает панель CEP и скрипт ScriptUI).
+
+**[ComfyUI Photoshop Plugin (PH-CU-S)](https://github.com/SaidAuita/ComfyUI_PH-CU-S)**
+* Мощный плагин для Photoshop на базе ComfyUI, обеспечивающий прямую интеграцию с локальными генеративными моделями без подписок и облаков.
+
+### 💎 QR код с логотипом произвольной формы
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://ph-cu-s.com/ru/ai-code-pro">
+        <img src="images/ai_code_pro_ru.png" width="130" alt="AI Code PRO - QR код с логотипом произвольной формы" /><br/>
+        <b>AI Code PRO</b>
+      </a><br/>
+      <sub>Генератор векторных штрихкодов (18 стандартов) и дизайнерских QR-кодов для <b>Adobe Illustrator</b></sub><br/><br/>
+      <a href="https://ph-cu-s.com/ru/ai-code-pro"><img src="https://img.shields.io/badge/PRO-Расширение%20Illustrator-orange.svg" alt="AI Code PRO" /></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://ph-cu-s.com/ru/id-code-pro">
+        <img src="images/id_code_pro_ru.png" width="130" alt="ID Code PRO - QR код с логотипом произвольной формы" /><br/>
+        <b>ID Code PRO</b>
+      </a><br/>
+      <sub>Генератор векторных штрихкодов (18 стандартов) и дизайнерских QR-кодов для <b>Adobe InDesign</b></sub><br/><br/>
+      <a href="https://ph-cu-s.com/ru/id-code-pro"><img src="https://img.shields.io/badge/PRO-Расширение%20InDesign-purple.svg" alt="ID Code PRO" /></a>
+    </td>
+  </tr>
+</table>
