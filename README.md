@@ -29,10 +29,10 @@
 <div align="center">
 
 #### 🧬 Long Clone (Longform Audio & Books)
-![Audio Studio T - Long Clone](images/Audio-Studio-T_en_01.png)
+![Audio Studio T - Long Clone](images/Audio-Studio-T_en_02.png)
 
 #### 🧬 Batch Clone (Script-Driven Production)
-![Audio Studio T - Batch Clone](images/Audio-Studio-T_en_02.png)
+![Audio Studio T - Batch Clone](images/Audio-Studio-T_en_01.png)
 
 </div>
 
@@ -119,10 +119,10 @@ Audio-Studio-T/
 <div align="center">
 
 #### 🧬 Длинный клон (Озвучивание книг и статей)
-![Audio Studio T - Длинный клон](images/Audio-Studio-T_ru_01.png)
+![Audio Studio T - Длинный клон](images/Audio-Studio-T_ru_02.png)
 
 #### 🧬 Пакетный клон (Сценарная пакетная озвучка)
-![Audio Studio T - Пакетный клон](images/Audio-Studio-T_ru_02.png)
+![Audio Studio T - Пакетный клон](images/Audio-Studio-T_ru_01.png)
 
 </div>
 
