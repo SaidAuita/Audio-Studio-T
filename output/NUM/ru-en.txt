@@ -1,0 +1,361 @@
+English Voiceover — QR Codes, Business Cards & Print Automation
+
+1. QR-коды с логотипом
+
+[01.wav]
+RU: Как быстро сделать QR-код с логотипом произвольной формы, как в растровом, так и векторном формате, с автоматическим подбором максимально считываемого размера?
+EN: How can you quickly create a QR code with a custom-shaped logo, in both raster and vector formats, with automatic optimization for maximum scan reliability?
+
+[02.wav]
+RU: Автоматически подбирается максимальный размер логотипа, при котором QR-код гарантированно считывается.
+EN: The system automatically determines the maximum logo size, while ensuring that the QR code remains fully scannable.
+
+
+2. Персонализированные QR-коды для визиток
+
+[03.wav]
+RU: Как создать партию визиток с персонализированным QR-кодом?
+EN: How can you create a batch of business cards, with personalized QR codes?
+
+[04.wav]
+RU: Импортируете таблицу Excel, быстро вставляете необходимые поля.
+EN: Simply import an Excel spreadsheet, and insert the required fields.
+
+[05.wav]
+RU: Для вставки изображений присваиваете объектам имена из импортированного файла.
+EN: To insert images, assign object names that match the entries in the imported file.
+
+[06.wav]
+RU: Тестируйте собранный макет. Если всё хорошо, откатывайтесь на шаг назад и запускайте пакетную обработку.
+EN: Test your assembled layout. If everything looks good, go back one step, and start batch processing.
+
+
+3. Сканирование QR-кодов
+
+[07.wav]
+RU: После генерации можно проверить QR-код встроенным сканером.
+EN: Once generated, you can check the QR code, using the built-in scanner.
+
+[08.wav]
+RU: Modern C++ — для современных флагманских смартфонов с улучшенным распознаванием сложных кодов.
+EN: Modern C++ is designed for the latest flagship smartphones, offering improved recognition of complex codes.
+
+[09.wav]
+RU: Mobile — для обычных смартфонов и стандартных условий сканирования.
+EN: Mobile is intended for regular smartphones, and standard scanning conditions.
+
+[10.wav]
+RU: Legacy — для старых телефонов и простых промышленных сканеров.
+EN: Legacy is designed for older phones, and basic industrial scanners.
+
+[11.wav]
+RU: Если вам нужно отсканировать растровый QR-код, создаёте прямоугольник без заливки.
+EN: If you need to scan a raster QR code, simply create a rectangle with no fill.
+
+[12.wav]
+RU: Нажимаете на кнопку «Сканер» в панели плагина.
+EN: Then click the Scanner button, in the plugin panel.
+
+[13.wav]
+RU: После сканирования можно скопировать информацию в буфер обмена или вставить её в панель для генерации векторного кода.
+EN: After scanning, you can copy the information to the clipboard, or paste it directly into the vector code generator.
+
+[14.wav]
+RU: После генерации вы можете использовать векторный QR-код в ваших макетах.
+EN: Once generated, you can use the vector QR code in your designs.
+
+[15.wav]
+RU: Если у вас есть QR-коды отдельно, как объекты, растровые или векторные, просто выделяйте их и нажимайте кнопку Scan.
+EN: If you already have QR codes as separate objects, either raster or vector, simply select them and click Scan.
+
+[16.wav]
+RU: При сканировании автоматически определяется тип QR-кода.
+EN: The QR code type is detected automatically during scanning.
+
+
+4. Подготовка визиток к печати
+
+[17.wav]
+RU: Далее я покажу систему подготовки к печати только нужных макетов.
+EN: Next, I'll show you a system for preparing only the required designs, for printing.
+
+[18.wav]
+RU: На примере уже сгенерированных визитных карточек.
+EN: Let's use a batch of previously generated business cards, as an example.
+
+[19.wav]
+RU: Если вам приходится периодически печатать только определённые виды карточек, их нужно расположить на печатном листе в зависимости от тиража.
+EN: If you regularly need to print only certain types of business cards, you have to arrange them on the print sheet, according to the required quantities.
+
+[20.wav]
+RU: Это отнимает время.
+EN: This takes time.
+
+[21.wav]
+RU: Я предлагаю следующий способ.
+EN: Here's a better way to do it.
+
+[22.wav]
+RU: Каждый макет располагается на своём артборде.
+EN: Each design is placed on its own artboard.
+
+[23.wav]
+RU: В случае двусторонней печати сначала лицо, потом оборот.
+EN: For double-sided printing, the front side comes first, followed by the back.
+
+[24.wav]
+RU: Артборду присваивается имя, в случае генерации визиток из Excel-файла оно присваивается автоматически.
+EN: Each artboard is assigned a name. When generating business cards from an Excel file, these names are assigned automatically.
+
+[25.wav]
+RU: Если у вас уже свёрстаны визитки и у фамилии есть уникальный стиль, можно автоматически переименовать артборды.
+EN: If your business cards are already laid out, and each surname has a unique text style, you can rename the artboards automatically.
+
+[26.wav]
+RU: Для этого указываете фрейм с именем.
+EN: To do this, simply select the text frame containing the name.
+
+[27.wav]
+RU: Считывается стиль, и артборды переименовываются автоматически.
+EN: The text style is detected, and the artboards are renamed automatically.
+
+[28.wav]
+RU: Также можно для определённой группы задать свой номер отдела.
+EN: You can also assign a specific department number, to a group.
+
+
+5. Распознавание текста на визитках
+
+[29.wav]
+RU: Если в ваших карточках текст уже переведён в кривые, есть ещё один способ.
+EN: If the text on your business cards has already been converted to outlines, there's another way to handle it.
+
+[30.wav]
+RU: Разбить карточки на группы, отправить на распознавание, и потом импортировать текстовый файл и присвоить имена в автоматическом режиме.
+EN: You can split the cards into groups, run text recognition, then import the resulting text file, and assign the names automatically.
+
+
+6. Подготовка печатного листа
+
+[31.wav]
+RU: После подготовки процесс спуска на печатный лист займёт немного времени.
+EN: Once everything is prepared, imposing the designs onto a print sheet takes very little time.
+
+[32.wav]
+RU: Выбирайте необходимые карточки.
+EN: Select the cards you need.
+
+[33.wav]
+RU: Если их много, можно разбить на разные отделы.
+EN: If there are many of them, you can organize them into different departments.
+
+[34.wav]
+RU: Присваивайте выбранной карточке необходимый тираж.
+EN: Assign the required print quantity, to each selected card.
+
+[35.wav]
+RU: Далее создаёте PDF-файл только из выбранных карточек.
+EN: Next, generate a PDF, containing only the selected cards.
+
+[36.wav]
+RU: Следующий шаг — запускайте скрипты импорта PDF в InDesign.
+EN: The next step, is to run the scripts that import the PDF files into InDesign.
+
+[37.wav]
+RU: После импорта автоматически подтягиваются тиражи.
+EN: After importing, the print quantities are loaded automatically.
+
+[38.wav]
+RU: Остаётся только выбрать размер бумаги и раскладку на листе.
+EN: All that's left, is to select the paper size, and arrange the designs on the sheet.
+
+[39.wav]
+RU: Если нужно повернуть визитку, выбирайте для лица и оборота необходимый поворот.
+EN: If you need to rotate a business card, you can specify the required rotation, for both the front and back sides.
+
+[40.wav]
+RU: Для утверждения у клиента можно сгенерировать листы заказа и распечатать или отправить по email.
+EN: For client approval, you can generate order sheets, and either print them, or send them by email.
+
+[41.wav]
+RU: Выбирайте схему спуска и создавайте документ для печати.
+EN: Choose your imposition layout, and generate the print-ready document.
+
+
+7. Создание ценников — пакетная обработка
+
+[42.wav]
+RU: Следующий пример — создание ценников.
+EN: The next example is price tag generation.
+
+[43.wav]
+RU: Похоже на создание QR-кодов.
+EN: The process is similar to generating QR codes.
+
+[44.wav]
+RU: Есть готовый макет, в котором уже заведены все позиции, которые учитываются в файле.
+EN: We already have a template, with all the required fields set up, and linked to the data file.
+
+[45.wav]
+RU: Логично, загружаем Excel-файл.
+EN: So, naturally, we start by importing the Excel file.
+
+[46.wav]
+RU: И здесь ещё добавлены цветовые поля.
+EN: We've also added color fields here.
+
+[47.wav]
+RU: То есть фон ценника будет перекрашиваться в зависимости от таблицы Excel.
+EN: This means the price tag background color will change automatically, based on the Excel spreadsheet.
+
+[48.wav]
+RU: Здесь есть цвет CMYK, RGB, HSB и HEX.
+EN: You can specify colors using CMYK, RGB, HSB, or HEX values.
+
+[49.wav]
+RU: Любой из них в пачке будет перекрашиваться.
+EN: Any of these color formats can be used, to change the colors across the batch.
+
+[50.wav]
+RU: Вот пример.
+EN: Here's an example.
+
+[51.wav]
+RU: Здесь он был голубенький.
+EN: This one was originally light blue.
+
+[52.wav]
+RU: Откатываюсь назад и, допустим, делаем batch из 20 ценников.
+EN: I'll undo that, and let's say we generate a batch of 20 price tags.
+
+
+8. Генерация штрихкодов и цветов
+
+[53.wav]
+RU: Для баркодов быстрее работает нативный алгоритм, в отличие от QR-кодов.
+EN: For barcodes, the native algorithm works faster than it does for QR codes.
+
+[54.wav]
+RU: То есть он отрабатывает быстрее.
+EN: In other words, barcode generation is faster.
+
+[55.wav]
+RU: Так что можно пользоваться и...
+EN: So you can use both options...
+
+[56.wav]
+RU: Ну и соответственно цвет был задан для первых трёх голубой.
+EN: As you can see, the first three tags were assigned a blue color.
+
+[57.wav]
+RU: Для вторых трёх розовый.
+EN: The next three were assigned pink.
+
+[58.wav]
+RU: Дальше жёлтый, зелёный.
+EN: Then yellow, followed by green.
+
+[59.wav]
+RU: И дальше он повторяется.
+EN: And then the color sequence repeats.
+
+
+9. Автоматическое именование артбордов
+
+[60.wav]
+RU: То есть только генерация прошла, можно посмотреть на названия ценников.
+EN: Once generation is complete, you can check the names of the price tags.
+
+[61.wav]
+RU: То есть то поле, которое было задано, оно попало в название артборда.
+EN: The field we specified, has automatically been used as the artboard name.
+
+[62.wav]
+RU: Если вы хотите их переименовать, то можно опять также сбросить название артборда.
+EN: If you want to rename them, you can simply reset the artboard names, in the same way.
+
+[63.wav]
+RU: Вот они опять обнулились.
+EN: As you can see, they've all been reset.
+
+[64.wav]
+RU: Задать этот блок как определяющее название.
+EN: Set this field as the source for the new names.
+
+[65.wav]
+RU: И соответственно для всех артбордов применить — от одного до сорока.
+EN: Then apply this naming rule to all artboards, from one to forty.
+
+[66.wav]
+RU: Готово, все они переименованы.
+EN: And that's it. All the artboards have been renamed.
+
+[67.wav]
+RU: Ой, единственное — без номеров. В принципе, как бы не обязательно.
+EN: The only thing is that the numbers are missing. But that's not really necessary.
+
+
+10. Выбор ценников для печати
+
+[68.wav]
+RU: Ну и дальше всё как обычно.
+EN: And from here, everything works as usual.
+
+[69.wav]
+RU: То есть у нас сейчас есть макеты, которые мы хотим частично распечатать.
+EN: Now we have a set of designs, and we only want to print some of them.
+
+[70.wav]
+RU: Допустим, выбираем макеты, которые нам нужны.
+EN: Let's select the designs we need.
+
+[71.wav]
+RU: Можно по имени искать их.
+EN: You can also search for them by name.
+
+[72.wav]
+RU: Применяем тиражи, которые вы хотите поставить.
+EN: Then assign the print quantities you need.
+
+[73.wav]
+RU: И дальше нажимайте кнопку Export.
+EN: Next, simply click the Export button.
+
+[74.wav]
+RU: То есть создаётся PDF-файл только с выбранными ценниками.
+EN: This generates a PDF, containing only the selected price tags.
+
+[75.wav]
+RU: Так, здесь лицо и оборот, то создаётся лицо и оборот.
+EN: Since these designs have both front and back sides, both sides are included in the export.
+
+[76.wav]
+RU: И JSON-файл, в котором будут указаны тиражи и названия.
+EN: A JSON file is also generated, containing the print quantities and names.
+
+
+11. Импорт и подготовка к печати
+
+[77.wav]
+RU: Сначала импортируем.
+EN: First, we import the files.
+
+[78.wav]
+RU: И затем запускаем скрипт.
+EN: Then we run the script.
+
+[79.wav]
+RU: Сейчас запуск.
+EN: Let's run it now.
+
+[80.wav]
+RU: Выбираем размер бумаги и размер карточек.
+EN: We select the paper size, and the card dimensions.
+
+[81.wav]
+RU: Отправляем карточки на спуск. Выбираем схему спуска.
+EN: We send the cards to imposition and select the imposition layout.
+
+[82.wav]
+RU: В итоге получаем карточки, разложенные на лист, готовые для печати.
+EN: The result is a sheet with all the cards arranged and ready for printing.

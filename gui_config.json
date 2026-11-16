@@ -1,0 +1,21 @@
+{
+  "lang": "RU",
+  "selected_model": "drama3_int8experts_bf16.safetensors",
+  "bc_preset": "RU_AK8.wav",
+  "bc_file_path": "output/NUM/ru-en.txt",
+  "bc_lang": "EN",
+  "bc_temp": 0.8,
+  "bc_top_p": 0.95,
+  "bc_seed": 43964656,
+  "bc_use_plus_one": false,
+  "bc_num_from": "07",
+  "bc_num_to": "07",
+  "bc_to_end": false,
+  "bc_skip_existing": false,
+  "lc_preset": "SaidAuita.wav",
+  "lc_temp": 0.8,
+  "lc_top_p": 0.95,
+  "lc_seed": -1,
+  "lc_max_chars": 200,
+  "lc_gap": 0.3
+}

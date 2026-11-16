@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Local environments & heavy binaries
+python/
+temp/
+models/
+downloads/
+cache/
+cuda_version.txt
+*.log
+
+# Audio artifacts & heavy weights
+*.safetensors
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.zip
+
+# Output folder (keep default demo script)
+output/*
+!output/NUM/
+output/NUM/*
+!output/NUM/ru-en.txt
+
+# Voices
+voices/
+
+# NiceGUI / web cache
+.nicegui/
+
+# OS / Editor / Temp docs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+New_style/
+UI_REDESIGN_NOTES.md

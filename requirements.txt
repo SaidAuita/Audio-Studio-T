@@ -1,0 +1,18 @@
+# Audio Studio T - Core Dependencies
+nicegui>=2.0.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+numpy>=1.26.0,<2.5.0
+soundfile>=0.12.0
+pyloudnorm>=0.1.1
+safetensors>=0.4.0
+transformers>=4.40.0
+tokenizers>=0.19.0
+sentencepiece
+einops
+scipy
+requests
+aiofiles
+pydantic
+starlette
+tqdm
